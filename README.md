@@ -29,7 +29,7 @@ Get Now -
 <a href="https://rzp.io/l/Nopyfy-Ransomeware" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88558310/129912232-184e609a-9c2b-4191-917b-947eb7a0ce59.png" alt="click-here-button" height="50" width="150" /></a></br>
 
 ## Features that you will use
-**Ransomware size is only 22kb**
+**Ransomware size is only `22kb`**
 - AES algorithm to encrypt files
 - Send encryption key by - `PHP,SMTP,Ftp`
 - Save localy encrypted victim data with name user-id
