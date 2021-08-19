@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nopyfy-Ransomware", "Nopyfy-Ransomware\Nopyfy-Ransomware.csproj", "{46C6C3E7-039F-4C13-A16F-BD3206991F5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46C6C3E7-039F-4C13-A16F-BD3206991F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C6C3E7-039F-4C13-A16F-BD3206991F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C6C3E7-039F-4C13-A16F-BD3206991F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C6C3E7-039F-4C13-A16F-BD3206991F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26C9CA4D-0A11-45F7-8634-FDFEB3A1EC1A}
+	EndGlobalSection
+EndGlobal
